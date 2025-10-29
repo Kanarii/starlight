@@ -1,2 +1,0 @@
-# starlight
-for html
